@@ -2,7 +2,7 @@
 Modelado y análisis de incendios forestales en México a partir de registros históricos de incendios.
 
 # Pregunta a resolver
-¿Qué relación existe entre el tiempo de respuesta ante un incendio forestal y la superficie finalm>
+¿Qué relación existe entre el tiempo de respuesta ante un incendio forestal y la superficie finalmente afectada?
 Variables potencialmente relevantes:
 
 - Deteccion
