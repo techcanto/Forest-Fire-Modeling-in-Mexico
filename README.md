@@ -405,3 +405,6 @@ Al terminar tendrás en la carpeta `resultados_incendio.csv`, `resumen_incendio.
 
 
 ![Resultados](mapas_calor.png)
+
+# Referencias
+https://repositorio.ipicyt.edu.mx/bitstream/handle/11627/3017/TMIPICYTF4M62015.pdf?sequence=1&isAllowed=y
