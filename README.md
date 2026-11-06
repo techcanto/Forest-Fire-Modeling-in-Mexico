@@ -400,3 +400,8 @@ Al terminar tendrás en la carpeta `resultados_incendio.csv`, `resumen_incendio.
 - **`ARDIENDO` es absorbente:** un árbol nunca sale de ese estado, aunque su temperatura baje hacia 40 °C. La curva "ardiendo" de `evolucion_estados.png` es, por tanto, **acumulada** (árboles que ya ardieron o siguen ardiendo) y no el número de llamas activas.
 - **Simplificaciones físicas:** los árboles receptores no pierden calor hacia el ambiente, el emisor no consume combustible y no se modelan viento, pendiente ni humedad.
 - **Integración de primer orden:** con $\Delta t$ grande, un vecino cercano a un emisor en su pico puede superar la temperatura de ignición con holgura en un solo paso; el error de Euler crece con $\Delta t$.
+
+
+
+
+![Resultados](mapas_calor.png)
