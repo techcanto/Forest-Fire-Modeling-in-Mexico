@@ -19,7 +19,7 @@ Es un modelo **estocástico-determinista**: la única componente aleatoria es la
 | `incendio.c` | C | Motor de simulación: genera el bosque, integra el modelo físico en el tiempo y escribe los resultados en dos archivos CSV. |
 | `visualizar.py` | Python (pandas + matplotlib + numpy) | Lee los CSV generados y produce dos gráficos: evolución de los estados y mapas de calor de temperatura. |
 
-### 📁 Estructura del repositorio
+### Estructura del repositorio
 
 ```text
 .
